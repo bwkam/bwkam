@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on my final project
 - 📫 How to reach me: Rynite#2580
@@ -7,7 +7,7 @@
 </h2>
 <p align="center">
     I'm a 14 years old, self taught programmer, still learning new things, I'm currently working on something cool
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    
 <br>
 <br>
 
