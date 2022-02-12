@@ -4,11 +4,9 @@
 - 📫 How to reach me: Rynite#2580
 - 😄 Pronouns: he/him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UserDev987&show_icons=true&theme=merko)<h2 align="center">
-    Hello there! I am <strong>Rynite</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-    I'm a 14 years olc, self taught programmer, still learning new things, I'm currently working on something cool
+    I'm a 14 years old, self taught programmer, still learning new things, I'm currently working on something cool
 <br>
 <br>
 
