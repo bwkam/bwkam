@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://github.com/UserDev987/UserDev987/blob/master/20200913_155938.jpg)
+![](https://github.com/UserDev987/UserDev987/blob/master/bg.png)
 
 - 🔭 I’m currently working on my final project
 - 📫 How to reach me: Rynite#2580
