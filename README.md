@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div align="center">
-<a href="google.com" target="_blank"><img src="https://imgur.com/a/5t36bYT" width="900px"></a>
-</div>
+![](https://github.com/UserDev987/UserDev987/blob/master/20200913_155938.jpg)
 
 - 🔭 I’m currently working on my final project
 - 📫 How to reach me: Rynite#2580
