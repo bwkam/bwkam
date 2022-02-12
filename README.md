@@ -3,6 +3,7 @@
 <div align="center">
 <a href="google.com" target="_blank"><img src="https://imgur.com/a/5t36bYT" width="900px"></a>
 <br><br>
+</div>
 
 - 🔭 I’m currently working on my final project
 - 📫 How to reach me: Rynite#2580
