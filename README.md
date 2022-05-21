@@ -4,7 +4,7 @@
 
 </h2>
 <p align="center">
-    I'm a 14 years old, self taught programmer, still learning new things, I'm currently working on something cool
+    I'm a 14 years old, self taught programmer, still learning new thing
     
 <br>
 <br>
