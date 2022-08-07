@@ -4,7 +4,9 @@
 
 </h2>
 <p align="center">
-    I'm a 14 years old, self taught programmer, still learning new thing
+    I'm a 14 years old, self taught programmer, shitty violinist, I'm currently enjoying Linux and learning more about hardware and OS, while working on my primary React project (comming soon)
+
+I have experience with Lua, Python, C, JS/NodeJS, Haxe, HTML/CSS, SQL
     
 <br>
 <br>
