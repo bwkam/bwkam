@@ -1,3 +1,14 @@
+Hello, I'm rynite, a 15 years old programmer. Here's some stuff about me.
+
+- Violinist
+- Student
+- Linux lover
+- FOSS enthusiast
+- Learning backend with Django
+- Learning React and Next.js
+- Learning Game development with Godot and GDScript
+
+
 
 ### My stats :)
 <br><br>
