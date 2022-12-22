@@ -1,11 +1,10 @@
-Hello, I'm rynite, a 15 years old programmer. Here's some stuff about me,
+Hello, I'm rynite, a 15 years old programmer (a junior fullstack dev). Here's some stuff about me,
     I'm obviously a loser at everything.. don't expect that much from someone like me
 
 - Violinist
 - Student
 - Linux lover
 - FOSS enthusiast
-- Learning backend with Django
 - Learning React and Next.js
 - Learning Game development with Godot and GDScript
 
