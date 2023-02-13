@@ -1,3 +1,1 @@
-hello.. nothing to say here tbh I don't like these fancy readmes
-
-
+hi... I'm a junior full stack dev and a linux enjoyer :P
