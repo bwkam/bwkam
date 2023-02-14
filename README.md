@@ -1,1 +1,2 @@
-hi... I'm a junior full stack dev and a linux enjoyer :P
+hi... I'm a 15 years old full stack dev and a linux enjoyer :P
+I try to write useful code 
