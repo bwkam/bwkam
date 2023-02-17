@@ -1,11 +1,13 @@
-
-
-<h1 align="center">hi... I'm a 15 years old full stack dev and a linux enjoyer, and I try to write useful code :/</h1>
+<h1 align="center">Hi 👋, I'm Beshoy</h1>
 <h3 align="center">someone</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bwkam&label=Profile%20views&color=0e75b6&style=flat" alt="bwkam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bwkam" alt="bwkam" /></a> </p>
+- 🔭 I’m currently working on [working on](https://github.com/bwkam/rwm)
+
+- 📫 How to reach me **userdev987@gmail.com**
+
+- ⚡ Fun fact **I regularly drink water**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bwkam&show_icons=true&locale=en" alt="bwkam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwkam&" alt="bwkam" /></p>
-
