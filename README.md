@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bwkam&label=Profile%20views&color=0e75b6&style=flat" alt="bwkam" /> </p>
 
-- 🔭 I’m currently working on [working on](https://github.com/bwkam/rwm)
+- 🔭 I’m currently working on [rwm](https://github.com/bwkam/rwm)
 
 - 📫 How to reach me **userdev987@gmail.com**
 
