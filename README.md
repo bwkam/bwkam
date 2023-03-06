@@ -5,11 +5,10 @@
 <img src="https://komarev.com/ghpvc/?username=bwkam&label=Profile%20views&color=0e75b6&style=flat" alt="bwkam" /> 
 <img src="https://img.shields.io/github/stars/bwkam?label=Stars" alt="stars">
 </p>
-- 🔭 I’m currently working on [rwm](https://github.com/bwkam/rwm)
 
 - 📫 How to reach me **userdev987@gmail.com**
 
-- ⚡ Fun fact **I regularly drink water**
+- ⚡ Fun fact **I hate life sm**
 
 
 <h3 align="left">Languages and Tools:</h3>
