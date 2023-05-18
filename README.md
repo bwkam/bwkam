@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **userdev987@gmail.com**
 
-- ⚡ Fun fact **I hate life sm**
 
 
 <h3 align="left">Languages and Tools:</h3>
